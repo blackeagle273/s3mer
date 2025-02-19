@@ -39,7 +39,7 @@
     "query-string": "^9.0.0",
     "react": "^19",
     "react-dom": "^19",
-    "sonner": "^1.7.2",
+    "sonner": "^2.0.0",
     "string-to-color": "^2.2.2",
     "svix": "^1.45.1",
     "tailwind-merge": "^2.6.0",
